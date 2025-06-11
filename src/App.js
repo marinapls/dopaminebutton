@@ -1715,7 +1715,7 @@ function App() {
     
     const newIcons = words.map((word, index) => {
       const icon = getIconForWord(word);
-      const isMobile = window.innerWidth <= 768;
+      const isMobile = window.innerWidth <= 767; // Changed from 768 to force update
       return {
         id: `${Date.now()}-${index}`,
         icon,
