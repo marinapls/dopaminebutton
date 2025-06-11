@@ -3,6 +3,9 @@ import styled, { keyframes, createGlobalStyle } from 'styled-components';
 import { motion, AnimatePresence } from 'framer-motion';
 import { soundVariations, createSassySound, createCelebrationSound } from './soundEffects';
 
+// IMPORTANT: Updated for vercel deployment on June 11, 2025
+// This file contains mobile optimizations that need to be deployed
+
 const screenShake = keyframes`
   0%, 100% { transform: translate(0, 0) rotate(0deg); }
   25% { transform: translate(-5px, -5px) rotate(-1deg); }
