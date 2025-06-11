@@ -1945,7 +1945,7 @@ function App() {
       </DealerToggle>
 
       <Container>
-        <Title ref={titleRef}>Press for Dopamine!</Title>
+        <Title ref={titleRef}>Press for Dopamine! [Updated June 11]</Title>
         <ButtonArea>
           <Button
             ref={buttonRef}
