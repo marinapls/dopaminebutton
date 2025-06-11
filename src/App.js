@@ -84,7 +84,7 @@ const Title = styled.h1`
   text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
   pointer-events: none;
 
-  @media (max-width: 768px) {
+  @media (max-width: 767px) {
     font-size: 2rem;
     margin: 0.5rem 0;
   }
