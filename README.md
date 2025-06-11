@@ -1,4 +1,4 @@
-# Dopamine Button Website
+recenter the # Dopamine Button Website
 
 A fun, interactive website featuring a button that gives you a burst of dopamine! Each click creates colorful particle animations and increases your dopamine level.
 
@@ -30,3 +30,5 @@ npm start
 - Styled Components
 - Framer Motion
 - Modern CSS 
+
+## Last updated: July 2023 
